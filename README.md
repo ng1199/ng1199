@@ -36,8 +36,7 @@ Brief description about Project 3.
 
 Connect with me:
 - 📬 Email: [![Email](https://img.shields.io/badge/-namangupta397%40gmail.com-red?style=flat-square&logo=gmail)](mailto:namangupta397@gmail.com)
-- 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/-MyLinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/naman-gupta-6aa636263)
-
+- 🔗 LinkedIn: [![MyLinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/namangupta397/)
 
 <!-- GitHub Stats -->
 <p align="center">
