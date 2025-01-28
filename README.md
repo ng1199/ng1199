@@ -11,15 +11,9 @@
 ## 🚀 Skills
 
 ### Languages & Technologies
-Python | C | C++ | Java | HTML
+Python | C | C++ | 
 
-### Web Development
-Frontend: HTML5, CSS3, Sass, JavaScript
-Backend: Node.js, Express.js
-Databases: MongoDB, Firebase
-
-### Tools & Platforms
-Git, GitHub, VS Code, IntelliJ
+### Machine Learning
 
 ## 🏆 Projects and Achievements
 
