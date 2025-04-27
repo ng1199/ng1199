@@ -1,56 +1,29 @@
+**Hi, I'm Naman Gupta 👨‍💻**
 
-</p>
+Machine Learning Enthusiast | Aspiring Data Scientist | Lifelong Learner
+**********************
 
-<!-- Introduction -->
-# Hey there, I'm [Naman](https://github.com/ng1199) 👋
+👨‍💼 About Me
+--------------------------------------------------------------------------
+🎓 Pursuing B.Tech at S.R.M. Institute of Science and Technology, Chennai
 
-## 🌟 About Me
+🎯 Interested in Data Science, Machine Learning, and AI Development
 
-🎓 College Student at SRM University, passionate about coding and technology. I'm on a journey to explore the digital realm, one line of code at a time.
+💬 Always open to collaborating on real-world projects and research work
 
-## 🚀 Skills
+🌱 Currently deepening my knowledge in Deep Learning, MLOps, and Cloud Computing
 
-### Languages & Technologies
-Python | C | C++ | 
+📝 Passionate about transforming data into meaningful insights
 
-### Machine Learning
+🛠️ Technical Skills
+-----------------------------
+Languages: Python | SQL | C++
+Libraries/Frameworks: Pandas | NumPy | Scikit-learn | TensorFlow | PyTorch | Flask
+Tools/Platforms: Git | Docker | AWS | VS Code | Jupyter
 
-## 🏆 Projects and Achievements
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" width="450"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default" width="400"/> </p>
+📫 Contact Me
+LinkedIn: www.linkedin.com/in/naman-gupta-a47826360
 
-### [Project 1 Name](link-to-project-1)
-Brief description about Project 1.
-
-### [Project 2 Name](link-to-project-2)
-Brief description about Project 2.
-
-### [Project 3 Name](link-to-project-3)
-Brief description about Project 3.
-
-## 📫 Reach Me
-
-Connect with me:
-- 📬 Email: [![Email](https://img.shields.io/badge/-namangupta397%40gmail.com-red?style=flat-square&logo=gmail)](mailto:namangupta397@gmail.com)
-- 🔗 LinkedIn: [![MyLinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/namangupta397/)
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="GitHub Stats">
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&title_color=8E2DE2&text_color=fff" alt="Top Languages">
-</p>
-
-<!-- Repo Cards -->
-<p align="center">
-  <a href="https://github.com/yourusername/your-repo-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-1&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Repo 1"></a>
-  <a href="https://github.com/yourusername/your-repo-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-2&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Repo 2"></a>
-</p>
-
-<!-- Visitor Badge -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername" id="counter" alt="Visitor Count">
-</p>
-
-⭐️ From [Naman](https://github.com/ng1199)
+Email: namangupta397@gmail.com
