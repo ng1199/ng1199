@@ -24,6 +24,7 @@ Tools/Platforms: Git | Docker | AWS | VS Code | Jupyter
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" width="450"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default" width="400"/> </p>
 📫 Contact Me
+
 LinkedIn: www.linkedin.com/in/naman-gupta-a47826360
 
 Email: namangupta397@gmail.com
