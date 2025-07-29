@@ -17,13 +17,17 @@ Machine Learning Enthusiast | Aspiring Data Scientist | Lifelong Learner
 
 🛠️ Technical Skills
 -----------------------------
-Languages: Python | SQL | C++
-Libraries/Frameworks: Pandas | NumPy | Scikit-learn | TensorFlow | PyTorch | Flask
-Tools/Platforms: Git | Docker | AWS | VS Code | Jupyter
+Machine Learning & Deep Learning: Supervised and unsupervised learning | LSTM networks | CNNs | sequence modeling | multistep forecasting | model evaluation | cross-validation | hyperparameter tuning
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" width="450"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default" width="400"/> </p>
+Languages: Python | SQL | C++
+
+Libraries/Frameworks: Pandas | NumPy | Scikit-learn | TensorFlow | PyTorch | Matplotlib | Seaborn
+
+Tools/Platforms: Git | PowerBI | VS Code | Google Collab | 
+
+
 📫 Contact Me
+---------------
 
 LinkedIn: www.linkedin.com/in/naman-gupta-a47826360
 
